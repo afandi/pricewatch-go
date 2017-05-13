@@ -34,6 +34,7 @@ func grab() {
 		body, _ := ioutil.ReadAll(response.Body)
 		
 		fmt.Println(body)
-	} 
+	}
+	// test
 	
 }
